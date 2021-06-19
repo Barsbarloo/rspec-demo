@@ -19,7 +19,7 @@ end
 
 
 
-hero = Hero.new 'mike'
-puts hero.name
-puts hero.power_up
-puts hero.hero_info
+# hero = Hero.new 'mike'
+# puts hero.name
+# puts hero.power_up
+# puts hero.hero_info
