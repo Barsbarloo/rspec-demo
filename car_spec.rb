@@ -3,7 +3,7 @@ require './car'
 describe Car do
     it "must return range" do
         #arrange
-        @car = Car.new
+        car = Car.new
        
         #act
         car.add_fuel 10
